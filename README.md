@@ -52,4 +52,4 @@ so I don't have to type all the boilerplate every time.
 
 I use macOS and this is where openconnect wrapper is tested.
 I'm confident that it would just work on Linux as well.
-There is no way that this world work on Windows without modifications.
+There is no way that this would work on Windows without modifications.
